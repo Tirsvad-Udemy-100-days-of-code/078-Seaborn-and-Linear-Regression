@@ -9,7 +9,7 @@
 ## Version History
 | Date | Status | Author | Reviewer | Change | Commit |
 | --- | --- | --- | --- | --- | --- |
-| 2026-11-12 | Accepted | Jens Tirsvad Nielsen | AI as stand-in for S01 | Initial version | pending |
+| 2026-11-12 | Accepted | Jens Tirsvad Nielsen | AI as stand-in for S01 | Initial version | [345e385] |
 
 ---
 
@@ -60,3 +60,4 @@ Go — every Mandatory criterion passes; two Optional criteria (12, 13) fail wit
 
 [PY-001]: ../../../src/movie_regression
 [QC-PY-001]: ../../../framework/qc/code/qc-programming-python.md
+[345e385]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn_and_Linear_Regression/commit/345e385c0e52f81b25254af0113d83074c67a62d
