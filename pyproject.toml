@@ -9,21 +9,24 @@ description = "Day 78 of Udemy's 100 Days of Code: Seaborn charts and linear reg
 readme = "README.md"
 requires-python = ">=3.13"
 license = { file = "LICENSE" }
+# Exact versions: the project is reproducible. Raise them on purpose, then run the tests.
 dependencies = [
-    "pandas>=2.2",
-    "matplotlib>=3.9",
-    "seaborn>=0.13",
-    "scikit-learn>=1.5",
+    "pandas==3.1.1",
+    "matplotlib==3.11.2",
+    "seaborn==0.13.2",
+    "scikit-learn==1.9.1",
 ]
 
 [project.optional-dependencies]
 dev = [
-    "pytest>=8",
-    "ruff>=0.6",
-    "jupyterlab>=4",
-    "nbconvert>=7",
-    "nbclient>=0.10",
-    "ipykernel>=6",
+    "pytest==9.2.0",
+    "ruff==0.17.4",
+    "jupyterlab==4.6.6",
+    "nbconvert==7.17.2",
+    "nbclient==0.11.0",
+    "ipykernel==7.4.0",
+    "mypy==2.4.1",
+    "pandas-stubs==3.1.0.261029",
 ]
 
 [tool.setuptools.packages.find]
@@ -39,3 +42,19 @@ src = ["src", "tests"]
 
 [tool.ruff.lint]
 select = ["E", "F", "I", "UP", "B"]
+
+[tool.mypy]
+strict = true
+files = ["src", "tests", "scripts"]
+python_version = "3.13"
+
+# These libraries ship no type information; their calls are the only untyped code.
+[[tool.mypy.overrides]]
+module = ["sklearn.*", "seaborn", "nbformat", "nbformat.*"]
+ignore_missing_imports = true
+
+# nbformat is untyped, so the notebook builder cannot satisfy these two checks.
+[[tool.mypy.overrides]]
+module = ["make_notebook"]
+disallow_untyped_calls = false
+warn_return_any = false

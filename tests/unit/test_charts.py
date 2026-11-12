@@ -1,5 +1,6 @@
 from pathlib import Path
 
+import numpy as np
 import pandas as pd
 from matplotlib.figure import Figure
 
@@ -77,7 +78,7 @@ def test_fitted_line_chart_draws_line_and_estimates(
     ax = charts.fitted_line_chart(small_films, result).axes[0]
 
     assert len(ax.lines) == 1
-    assert ax.lines[0].get_ydata()[0] == result.intercept
+    assert np.asarray(ax.lines[0].get_ydata())[0] == result.intercept
     assert "R-squared" in ax.texts[0].get_text()
 
 

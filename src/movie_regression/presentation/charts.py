@@ -201,7 +201,7 @@ def table_figure(frame: pd.DataFrame, title: str) -> Figure:
     ax.axis("off")
     ax.set_title(title)
     table = ax.table(
-        cellText=text.to_numpy(),
+        cellText=text.to_numpy().tolist(),
         colLabels=[str(name) for name in cells.columns],
         loc="center",
     )

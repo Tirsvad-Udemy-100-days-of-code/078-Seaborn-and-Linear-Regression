@@ -30,7 +30,7 @@ def describe_structure(data: pd.DataFrame) -> Structure:
         columns=data.shape[1],
         has_nan=bool(data.isna().values.any()),
         duplicate_rows=len(data[data.duplicated()]),
-        dtypes={name: str(kind) for name, kind in data.dtypes.items()},
+        dtypes={str(name): str(kind) for name, kind in data.dtypes.items()},
     )
 
 

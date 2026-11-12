@@ -70,7 +70,7 @@ One screenshot per lecture step, generated from the code with `python scripts/ma
 
 - Python 3.13 or newer, to run the code.
 - `pandas`, `matplotlib`, `seaborn` and `scikit-learn`, the only runtime dependencies; they are installed by the setup below.
-- `pytest`, `ruff` and Jupyter, only for development; installed with the `dev` extra.
+- `pytest`, `ruff`, `mypy`, `pandas-stubs` and Jupyter, only for development; installed with the `dev` extra.
 
 ## 🛠️ Setup
 
@@ -120,6 +120,13 @@ python scripts/make_screenshots.py
 
 ```bash
 python -m pytest
+```
+
+Check the types (mypy in strict mode) and the style:
+
+```bash
+python -m mypy
+python -m ruff check .
 ```
 
 Before pushing, scan the code with opengrep (default path `~/.opengrep/cli/latest/opengrep.exe`):

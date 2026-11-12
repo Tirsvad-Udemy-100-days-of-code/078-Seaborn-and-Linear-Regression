@@ -24,6 +24,11 @@ def _regression_lines(label: str, films: pd.DataFrame) -> list[str]:
     ]
 
 
+def _stat(stats: pd.DataFrame, name: str, column: str) -> float:
+    """One number of the describe() table, as a float."""
+    return float(stats[column].astype("float64")[name])
+
+
 def build_report(raw: pd.DataFrame) -> str:
     """Return a plain-text report with the answer of every lecture step."""
     structure = cleaning.describe_structure(raw)
@@ -38,10 +43,10 @@ def build_report(raw: pd.DataFrame) -> str:
         "Movie budget and revenue",
         f"Rows: {structure.rows}, columns: {structure.columns}, "
         f"NaN values: {structure.has_nan}, duplicates: {structure.duplicate_rows}",
-        f"Mean budget: ${stats.loc['mean', BUDGET]:,.0f}, "
-        f"mean worldwide gross: ${stats.loc['mean', WORLDWIDE]:,.0f}",
-        f"Highest budget: ${stats.loc['max', BUDGET]:,.0f}, "
-        f"highest worldwide gross: ${stats.loc['max', WORLDWIDE]:,.0f}",
+        f"Mean budget: ${_stat(stats, 'mean', BUDGET):,.0f}, "
+        f"mean worldwide gross: ${_stat(stats, 'mean', WORLDWIDE):,.0f}",
+        f"Highest budget: ${_stat(stats, 'max', BUDGET):,.0f}, "
+        f"highest worldwide gross: ${_stat(stats, 'max', WORLDWIDE):,.0f}",
         f"Films with zero domestic gross: {len(analysis.zero_domestic_films(films))}",
         f"Films with zero worldwide gross: {len(analysis.zero_worldwide_films(films))}",
         "Biggest flops: " + ", ".join(flops["Movie_Title"]),
