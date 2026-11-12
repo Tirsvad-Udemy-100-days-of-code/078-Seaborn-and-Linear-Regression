@@ -9,7 +9,7 @@
 ## Version History
 | Date | Status | Author | Reviewer | Change | Commit |
 | --- | --- | --- | --- | --- | --- |
-| 2026-11-12 | Accepted | Jens Tirsvad Nielsen | AI as stand-in for S01 | Delta review: strict type checking and pinned dependencies | pending |
+| 2026-11-12 | Accepted | Jens Tirsvad Nielsen | AI as stand-in for S01 | Delta review: strict type checking and pinned dependencies | [5c7949f] |
 
 ---
 
@@ -59,3 +59,4 @@ None open. The action items of [RC-007] and [RC-010] are closed by this record.
 [RC-007]: ./rc-007-python-code-mil-002.md
 [RC-010]: ./rc-010-python-code-mil-003.md
 [QC-PY-001]: ../../../framework/qc/code/qc-programming-python.md
+[5c7949f]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn-and-Linear-Regression/commit/5c7949fc72b4b94bde01b5f041f5509975d1bd37
