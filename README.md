@@ -55,10 +55,10 @@ Leave out `[dev]` if you only want to run the analysis.
 
 ## ▶️ Run
 
-The analysis functions are added in the next milestone; until then the package only imports:
+Print the answers of every lecture step (cleaning, zero-revenue films, international releases, decades and the regressions):
 
 ```bash
-python -c "import movie_regression; print(movie_regression.__version__)"
+python -m movie_regression
 ```
 
 ## 🧪 Tests
