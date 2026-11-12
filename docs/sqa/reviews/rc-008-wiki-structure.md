@@ -9,7 +9,7 @@
 ## Version History
 | Date | Status | Author | Reviewer | Change | Commit |
 | --- | --- | --- | --- | --- | --- |
-| 2026-11-12 | Accepted | Jens Tirsvad Nielsen | AI as stand-in for S01 | Initial version | pending |
+| 2026-11-12 | Accepted | Jens Tirsvad Nielsen | AI as stand-in for S01 | Initial version | [f9d4ac3] |
 
 ---
 
@@ -57,3 +57,4 @@ Go-with-conditions — every checkable Mandatory criterion passes; criterion 14 
 
 [WIKI-001]: ../../wiki/Home.md
 [QC-WIKI-001]: ../../../framework/qc/artifacts/qc-wiki.md
+[f9d4ac3]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn_and_Linear_Regression/commit/f9d4ac3fbb194f0e2879e383fd8fa26b8a281fb5
