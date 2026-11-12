@@ -3,6 +3,10 @@ from pathlib import Path
 import pandas as pd
 from matplotlib.figure import Figure
 
+from movie_regression.application.regression import (
+    RegressionResult,
+    fit_budget_to_revenue,
+)
 from movie_regression.presentation import charts
 
 
@@ -54,6 +58,27 @@ def test_regression_chart_styled_limits_axes(small_films: pd.DataFrame) -> None:
     assert ax.get_xlim()[0] == 0
     assert ax.get_ylim()[0] == 0
     assert ax.get_ylabel() == "Revenue in $ billions"
+
+
+def test_regression_comparison_chart_has_two_axes(small_films: pd.DataFrame) -> None:
+    fig = charts.regression_comparison_chart(small_films, small_films)
+
+    assert len(fig.axes) == 2
+    assert fig.axes[0].get_title() == "Films before 1970"
+    assert fig.axes[1].get_title() == "Films from 1970"
+    assert fig.axes[1].get_xlim()[0] == 0
+
+
+def test_fitted_line_chart_draws_line_and_estimates(
+    small_films: pd.DataFrame,
+) -> None:
+    result: RegressionResult = fit_budget_to_revenue(small_films)
+
+    ax = charts.fitted_line_chart(small_films, result).axes[0]
+
+    assert len(ax.lines) == 1
+    assert ax.lines[0].get_ydata()[0] == result.intercept
+    assert "R-squared" in ax.texts[0].get_text()
 
 
 def test_table_figure_draws_a_table(small_films: pd.DataFrame) -> None:

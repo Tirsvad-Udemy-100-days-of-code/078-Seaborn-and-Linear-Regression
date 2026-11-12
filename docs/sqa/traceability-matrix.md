@@ -26,7 +26,8 @@ Tracks backward and forward links between artifact instances so that traceabilit
 | [PP-001] | PP | en | it | [BC-001], [SA-001] | [MIL-001], [MIL-002], [MIL-003] | [RC-003] |
 | [MIL-001] | MIL | en | it | [PP-001] | [MIL-002] | [RC-004] |
 | [MIL-002] | MIL | en | it | [MIL-001] | [MIL-003] | [RC-005] |
-| [PY-001] | PY | - | - | [MIL-002] | - | [RC-007] |
+| [PY-001] | PY | - | - | [MIL-002] | - | [RC-010], [RC-007] |
+| [WIKI-001] | WIKI | en, da, ms | it | [MIL-003] | - | [RC-009], [RC-008] |
 | [MIL-003] | MIL | en | it | [MIL-002] | - | [RC-006] |
 
 ## Concern Coverage
@@ -61,5 +62,9 @@ Tracks backward and forward links between artifact instances so that traceabilit
 [RC-005]: ./reviews/rc-005-mil-002-analysis-library.md
 [RC-006]: ./reviews/rc-006-mil-003-notebook-and-docs.md
 [RC-007]: ./reviews/rc-007-python-code-mil-002.md
+[RC-008]: ./reviews/rc-008-wiki-structure.md
+[RC-009]: ./reviews/rc-009-wiki-language.md
+[RC-010]: ./reviews/rc-010-python-code-mil-003.md
 [PY-001]: ../../src/movie_regression
+[WIKI-001]: ../wiki/Home.md
 [75358c9]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn_and_Linear_Regression/commit/75358c998f55477ee25c074190b930f013dacf95
