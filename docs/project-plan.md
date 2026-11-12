@@ -11,7 +11,7 @@
 ## Version History
 | Date | Status | Author | Reviewer | Change | Commit |
 | --- | --- | --- | --- | --- | --- |
-| 2026-11-12 | Accepted | Jens Tirsvad Nielsen | AI as stand-in for S01 | Repository renamed to 078-Seaborn-and-Linear-Regression: links updated | pending |
+| 2026-11-12 | Accepted | Jens Tirsvad Nielsen | AI as stand-in for S01 | Repository renamed to 078-Seaborn-and-Linear-Regression: links updated | [0c53f49] |
 | 2026-11-12 | Accepted | Jens Tirsvad Nielsen | AI as stand-in for S01 | Link the synced milestones | [05893f4] |
 
 ---
@@ -87,3 +87,4 @@ A No-Go on a gateway holds the later gateways; S01 decides whether the end date 
 [MIL-003]: ./milestones/mil-003-notebook-and-docs.md
 [75358c9]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn-and-Linear-Regression/commit/75358c998f55477ee25c074190b930f013dacf95
 [05893f4]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn-and-Linear-Regression/commit/05893f41aae21135dc35b92b751f812348264c7a
+[0c53f49]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn-and-Linear-Regression/commit/0c53f4937356313c050ca363dd93dd52aa3a4cc3
