@@ -4,7 +4,7 @@
 
 **Spørgsmål:** Hvad er linjens skæring og hældning, og hvor god er tilpasningen?
 
-![Trin 8: Kør din egen regression med scikit-learn](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn_and_Linear_Regression/raw/branch/main/docs/images/step-8-scikit-learn.png)
+![Trin 8: Kør din egen regression med scikit-learn](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn-and-Linear-Regression/raw/branch/main/docs/images/step-8-scikit-learn.png)
 
 ## Hvad koden gør
 

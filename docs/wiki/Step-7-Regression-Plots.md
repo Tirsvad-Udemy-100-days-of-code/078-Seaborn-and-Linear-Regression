@@ -4,7 +4,7 @@
 
 **Question:** Does a straight line describe how budget leads to revenue?
 
-![Step 7: Regression plots with Seaborn](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn_and_Linear_Regression/raw/branch/main/docs/images/step-7-regression-plots.png)
+![Step 7: Regression plots with Seaborn](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn-and-Linear-Regression/raw/branch/main/docs/images/step-7-regression-plots.png)
 
 ## What the code does
 

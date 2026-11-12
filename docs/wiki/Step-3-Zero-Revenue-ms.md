@@ -4,7 +4,7 @@
 
 **Soalan:** Berapa banyak filem yang tidak memperoleh apa-apa, dan filem mahal yang manakah kegagalan terbesar?
 
-![Langkah 3: Filem tanpa hasil](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn_and_Linear_Regression/raw/branch/main/docs/images/step-3-zero-revenue.png)
+![Langkah 3: Filem tanpa hasil](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn-and-Linear-Regression/raw/branch/main/docs/images/step-3-zero-revenue.png)
 
 ## Apa yang dilakukan kod
 

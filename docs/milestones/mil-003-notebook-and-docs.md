@@ -73,4 +73,4 @@ A Jupyter notebook that runs top to bottom, nine step screenshots in `docs/image
 
 [BC-001]: ../business-case.md
 [MIL-002]: ./mil-002-analysis-library.md
-[75358c9]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn_and_Linear_Regression/commit/75358c998f55477ee25c074190b930f013dacf95
+[75358c9]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn-and-Linear-Regression/commit/75358c998f55477ee25c074190b930f013dacf95

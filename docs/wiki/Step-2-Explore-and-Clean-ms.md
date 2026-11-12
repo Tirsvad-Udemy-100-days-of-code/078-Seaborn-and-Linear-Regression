@@ -4,7 +4,7 @@
 
 **Soalan:** Bagaimanakah data distrukturkan, dan bagaimana kita menjadikan lajur wang berangka?
 
-![Langkah 2: Teroka dan bersihkan data](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn_and_Linear_Regression/raw/branch/main/docs/images/step-2-explore-and-clean.png)
+![Langkah 2: Teroka dan bersihkan data](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn-and-Linear-Regression/raw/branch/main/docs/images/step-2-explore-and-clean.png)
 
 ## Apa yang dilakukan kod
 

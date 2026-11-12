@@ -4,7 +4,7 @@
 
 **Spørgsmål:** Hvordan er data opbygget, og hvordan gør vi pengekolonnerne numeriske?
 
-![Trin 2: Udforsk og rens data](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn_and_Linear_Regression/raw/branch/main/docs/images/step-2-explore-and-clean.png)
+![Trin 2: Udforsk og rens data](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn-and-Linear-Regression/raw/branch/main/docs/images/step-2-explore-and-clean.png)
 
 ## Hvad koden gør
 

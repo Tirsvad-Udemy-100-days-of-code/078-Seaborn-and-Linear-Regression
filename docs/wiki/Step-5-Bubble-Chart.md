@@ -4,7 +4,7 @@
 
 **Question:** How do budget and revenue relate, and how has the film industry changed?
 
-![Step 5: Seaborn bubble charts](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn_and_Linear_Regression/raw/branch/main/docs/images/step-5-bubble-chart.png)
+![Step 5: Seaborn bubble charts](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn-and-Linear-Regression/raw/branch/main/docs/images/step-5-bubble-chart.png)
 
 ## What the code does
 

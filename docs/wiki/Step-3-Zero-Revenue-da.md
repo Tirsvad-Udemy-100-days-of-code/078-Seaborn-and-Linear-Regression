@@ -4,7 +4,7 @@
 
 **Spørgsmål:** Hvor mange film indtjente ingenting, og hvilke dyre film var de største flop?
 
-![Trin 3: Film uden omsætning](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn_and_Linear_Regression/raw/branch/main/docs/images/step-3-zero-revenue.png)
+![Trin 3: Film uden omsætning](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn-and-Linear-Regression/raw/branch/main/docs/images/step-3-zero-revenue.png)
 
 ## Hvad koden gør
 

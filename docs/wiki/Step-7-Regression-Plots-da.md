@@ -4,7 +4,7 @@
 
 **Spørgsmål:** Beskriver en ret linje, hvordan budget fører til omsætning?
 
-![Trin 7: Regressionsplot med Seaborn](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn_and_Linear_Regression/raw/branch/main/docs/images/step-7-regression-plots.png)
+![Trin 7: Regressionsplot med Seaborn](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn-and-Linear-Regression/raw/branch/main/docs/images/step-7-regression-plots.png)
 
 ## Hvad koden gør
 

@@ -7,8 +7,8 @@ Krav: Python 3.13 eller nyere og Git. Afhængigheder ved kørsel: `pandas`, `mat
 ## Hent koden
 
 ```bash
-git clone https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn_and_Linear_Regression.git
-cd 078-Seaborn_and_Linear_Regression
+git clone https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn-and-Linear-Regression.git
+cd 078-Seaborn-and-Linear-Regression
 ```
 
 ## Windows (PowerShell)

@@ -4,7 +4,7 @@
 
 **Spørgsmål:** Hvordan hænger budget og omsætning sammen, og hvordan har filmindustrien ændret sig?
 
-![Trin 5: Seaborn-boblediagrammer](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn_and_Linear_Regression/raw/branch/main/docs/images/step-5-bubble-chart.png)
+![Trin 5: Seaborn-boblediagrammer](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn-and-Linear-Regression/raw/branch/main/docs/images/step-5-bubble-chart.png)
 
 ## Hvad koden gør
 

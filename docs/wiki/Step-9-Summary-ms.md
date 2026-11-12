@@ -4,7 +4,7 @@
 
 **Soalan:** Jadi: adakah bajet filem yang lebih tinggi membawa lebih banyak hasil?
 
-![Langkah 9: Pelajaran dan ringkasan](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn_and_Linear_Regression/raw/branch/main/docs/images/step-9-summary.png)
+![Langkah 9: Pelajaran dan ringkasan](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn-and-Linear-Regression/raw/branch/main/docs/images/step-9-summary.png)
 
 ## Apa yang dilakukan kod
 

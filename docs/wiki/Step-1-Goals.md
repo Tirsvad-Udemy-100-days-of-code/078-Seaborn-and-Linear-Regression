@@ -4,7 +4,7 @@
 
 **Question:** Do higher film budgets lead to more revenue at the box office?
 
-![Step 1: The goals](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn_and_Linear_Regression/raw/branch/main/docs/images/step-1-goals.png)
+![Step 1: The goals](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn-and-Linear-Regression/raw/branch/main/docs/images/step-1-goals.png)
 
 ## What the code does
 

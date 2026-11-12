@@ -45,4 +45,4 @@ Go — criteria 3, 5 and 9 of [RC-009] are Pass on S01's confirmation; every oth
 [WIKI-001]: ../../wiki/Home.md
 [QC-LANG-001]: ../../../framework/qc/artifacts/qc-language-domain.md
 [RC-009]: ./rc-009-wiki-language.md
-[e94ba10]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn_and_Linear_Regression/commit/e94ba1074aa081e6ce98598b1b445eb681e1a878
+[e94ba10]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn-and-Linear-Regression/commit/e94ba1074aa081e6ce98598b1b445eb681e1a878

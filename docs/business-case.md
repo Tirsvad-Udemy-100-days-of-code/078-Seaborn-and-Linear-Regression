@@ -127,4 +127,4 @@ Proceed — the scope is small, the data is available and the result serves all 
 ---
 
 [SA-001]: ./stakeholder-analysis.md
-[75358c9]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn_and_Linear_Regression/commit/75358c998f55477ee25c074190b930f013dacf95
+[75358c9]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn-and-Linear-Regression/commit/75358c998f55477ee25c074190b930f013dacf95

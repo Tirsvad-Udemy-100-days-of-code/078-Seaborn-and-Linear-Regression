@@ -4,7 +4,7 @@
 
 **Question:** How do we group films by decade?
 
-![Step 6: Floor division to convert years to decades](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn_and_Linear_Regression/raw/branch/main/docs/images/step-6-decades.png)
+![Step 6: Floor division to convert years to decades](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn-and-Linear-Regression/raw/branch/main/docs/images/step-6-decades.png)
 
 ## What the code does
 

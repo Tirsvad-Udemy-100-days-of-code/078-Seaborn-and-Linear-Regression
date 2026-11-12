@@ -4,7 +4,7 @@
 
 **Spørgsmål:** Så: giver højere filmbudgetter mere omsætning?
 
-![Trin 9: Læringspunkter og opsummering](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn_and_Linear_Regression/raw/branch/main/docs/images/step-9-summary.png)
+![Trin 9: Læringspunkter og opsummering](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn-and-Linear-Regression/raw/branch/main/docs/images/step-9-summary.png)
 
 ## Hvad koden gør
 

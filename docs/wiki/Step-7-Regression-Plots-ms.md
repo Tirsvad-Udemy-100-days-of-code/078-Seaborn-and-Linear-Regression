@@ -4,7 +4,7 @@
 
 **Soalan:** Adakah garis lurus menerangkan bagaimana bajet membawa kepada hasil?
 
-![Langkah 7: Plot regresi dengan Seaborn](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn_and_Linear_Regression/raw/branch/main/docs/images/step-7-regression-plots.png)
+![Langkah 7: Plot regresi dengan Seaborn](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn-and-Linear-Regression/raw/branch/main/docs/images/step-7-regression-plots.png)
 
 ## Apa yang dilakukan kod
 

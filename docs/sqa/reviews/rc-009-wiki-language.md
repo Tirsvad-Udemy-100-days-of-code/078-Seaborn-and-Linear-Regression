@@ -52,4 +52,4 @@ Go-with-conditions — criteria 3, 5 and 9 are Pending: the Danish and Bahasa Ma
 
 [WIKI-001]: ../../wiki/Home.md
 [QC-LANG-001]: ../../../framework/qc/artifacts/qc-language-domain.md
-[f9d4ac3]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn_and_Linear_Regression/commit/f9d4ac3fbb194f0e2879e383fd8fa26b8a281fb5
+[f9d4ac3]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn-and-Linear-Regression/commit/f9d4ac3fbb194f0e2879e383fd8fa26b8a281fb5

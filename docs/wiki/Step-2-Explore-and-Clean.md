@@ -4,7 +4,7 @@
 
 **Question:** How is the data structured, and how do we make the money columns numeric?
 
-![Step 2: Explore and clean the data](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn_and_Linear_Regression/raw/branch/main/docs/images/step-2-explore-and-clean.png)
+![Step 2: Explore and clean the data](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn-and-Linear-Regression/raw/branch/main/docs/images/step-2-explore-and-clean.png)
 
 ## What the code does
 

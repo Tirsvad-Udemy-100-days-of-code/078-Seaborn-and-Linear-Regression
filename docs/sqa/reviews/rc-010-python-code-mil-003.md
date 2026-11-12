@@ -61,4 +61,4 @@ Go — every Mandatory criterion passes; two Optional criteria (12, 13) fail wit
 [PY-001]: ../../../src/movie_regression
 [RC-007]: ./rc-007-python-code-mil-002.md
 [QC-PY-001]: ../../../framework/qc/code/qc-programming-python.md
-[f9d4ac3]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn_and_Linear_Regression/commit/f9d4ac3fbb194f0e2879e383fd8fa26b8a281fb5
+[f9d4ac3]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn-and-Linear-Regression/commit/f9d4ac3fbb194f0e2879e383fd8fa26b8a281fb5

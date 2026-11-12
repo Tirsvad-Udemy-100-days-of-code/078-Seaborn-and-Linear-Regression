@@ -4,7 +4,7 @@
 
 **Soalan:** Filem manakah yang tidak memperoleh apa-apa di Amerika Syarikat tetapi memperoleh sesuatu di luar negara, dan filem manakah yang belum ditayangkan?
 
-![Langkah 4: Tapis pada berbilang syarat](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn_and_Linear_Regression/raw/branch/main/docs/images/step-4-international-releases.png)
+![Langkah 4: Tapis pada berbilang syarat](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn-and-Linear-Regression/raw/branch/main/docs/images/step-4-international-releases.png)
 
 ## Apa yang dilakukan kod
 

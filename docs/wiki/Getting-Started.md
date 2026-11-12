@@ -7,8 +7,8 @@ Requirements: Python 3.13 or newer and Git. Runtime dependencies: `pandas`, `mat
 ## Get the code
 
 ```bash
-git clone https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn_and_Linear_Regression.git
-cd 078-Seaborn_and_Linear_Regression
+git clone https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn-and-Linear-Regression.git
+cd 078-Seaborn-and-Linear-Regression
 ```
 
 ## Windows (PowerShell)

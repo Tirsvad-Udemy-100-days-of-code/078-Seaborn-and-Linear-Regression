@@ -4,7 +4,7 @@
 
 **Question:** Which films earned nothing in the United States but something abroad, and which films were not released yet?
 
-![Step 4: Filter on multiple conditions](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn_and_Linear_Regression/raw/branch/main/docs/images/step-4-international-releases.png)
+![Step 4: Filter on multiple conditions](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn-and-Linear-Regression/raw/branch/main/docs/images/step-4-international-releases.png)
 
 ## What the code does
 

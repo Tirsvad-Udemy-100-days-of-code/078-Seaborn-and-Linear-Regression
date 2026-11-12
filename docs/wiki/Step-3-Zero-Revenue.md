@@ -4,7 +4,7 @@
 
 **Question:** How many films earned nothing, and which expensive films were the biggest flops?
 
-![Step 3: Films with zero revenue](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn_and_Linear_Regression/raw/branch/main/docs/images/step-3-zero-revenue.png)
+![Step 3: Films with zero revenue](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn-and-Linear-Regression/raw/branch/main/docs/images/step-3-zero-revenue.png)
 
 ## What the code does
 

@@ -4,7 +4,7 @@
 
 **Spørgsmål:** Hvilke film indtjente ingenting i USA, men noget i udlandet, og hvilke film var ikke udkommet endnu?
 
-![Trin 4: Filtrér på flere betingelser](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn_and_Linear_Regression/raw/branch/main/docs/images/step-4-international-releases.png)
+![Trin 4: Filtrér på flere betingelser](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn-and-Linear-Regression/raw/branch/main/docs/images/step-4-international-releases.png)
 
 ## Hvad koden gør
 

@@ -4,7 +4,7 @@
 
 **Spørgsmål:** Giver højere filmbudgetter mere omsætning i biografen?
 
-![Trin 1: Målene](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn_and_Linear_Regression/raw/branch/main/docs/images/step-1-goals.png)
+![Trin 1: Målene](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn-and-Linear-Regression/raw/branch/main/docs/images/step-1-goals.png)
 
 ## Hvad koden gør
 

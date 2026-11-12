@@ -4,7 +4,7 @@
 
 **Question:** What are the intercept and the slope of the line, and how good is the fit?
 
-![Step 8: Run your own regression with scikit-learn](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn_and_Linear_Regression/raw/branch/main/docs/images/step-8-scikit-learn.png)
+![Step 8: Run your own regression with scikit-learn](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn-and-Linear-Regression/raw/branch/main/docs/images/step-8-scikit-learn.png)
 
 ## What the code does
 

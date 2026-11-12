@@ -4,7 +4,7 @@
 
 **Soalan:** Bagaimanakah kita mengumpulkan filem mengikut dekad?
 
-![Langkah 6: Pembahagian lantai untuk menukar tahun kepada dekad](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn_and_Linear_Regression/raw/branch/main/docs/images/step-6-decades.png)
+![Langkah 6: Pembahagian lantai untuk menukar tahun kepada dekad](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn-and-Linear-Regression/raw/branch/main/docs/images/step-6-decades.png)
 
 ## Apa yang dilakukan kod
 

@@ -4,7 +4,7 @@
 
 **Soalan:** Apakah pintasan dan kecerunan garis itu, dan sebaik manakah padanannya?
 
-![Langkah 8: Jalankan regresi anda sendiri dengan scikit-learn](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn_and_Linear_Regression/raw/branch/main/docs/images/step-8-scikit-learn.png)
+![Langkah 8: Jalankan regresi anda sendiri dengan scikit-learn](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn-and-Linear-Regression/raw/branch/main/docs/images/step-8-scikit-learn.png)
 
 ## Apa yang dilakukan kod
 

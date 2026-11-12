@@ -4,7 +4,7 @@
 
 **Question:** So: do higher film budgets lead to more revenue?
 
-![Step 9: Learning points and summary](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn_and_Linear_Regression/raw/branch/main/docs/images/step-9-summary.png)
+![Step 9: Learning points and summary](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn-and-Linear-Regression/raw/branch/main/docs/images/step-9-summary.png)
 
 ## What the code does
 

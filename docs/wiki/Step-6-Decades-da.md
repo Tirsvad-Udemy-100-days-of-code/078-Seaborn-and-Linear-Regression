@@ -4,7 +4,7 @@
 
 **Spørgsmål:** Hvordan grupperer vi film efter årti?
 
-![Trin 6: Heltalsdivision til at omregne år til årtier](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn_and_Linear_Regression/raw/branch/main/docs/images/step-6-decades.png)
+![Trin 6: Heltalsdivision til at omregne år til årtier](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/078-Seaborn-and-Linear-Regression/raw/branch/main/docs/images/step-6-decades.png)
 
 ## Hvad koden gør
 
